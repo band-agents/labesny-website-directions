@@ -1,0 +1,66 @@
+{
+  "base": "https://cdn.shopify.com/s/files/1/0719/8539/7891/files/",
+  "products": [
+    {"id":"bebe1","v":"Bebe","d":"women","t":"Strapless Embroidery Corset Top","ty":"Tops","p":49,"c":49,"s":["2","4","6","8","10"],"out":[],"st":9,"f":"7-SWT0469-BE-White-Alyssum-1.webp"},
+    {"id":"bebe2","v":"Bebe","d":"women","t":"Asymmetrical Shoulder Tie Top","ty":"Tops","p":45,"c":45,"s":["2","4","6","8","10"],"out":["2"],"st":14,"f":"7-SWT0464-BE-Celeste-1.webp"},
+    {"id":"bebe3","v":"Bebe","d":"women","t":"Tailored Straight Wide Leg Pant","ty":"Trousers","p":57,"c":57,"s":["2","4","6","8","10"],"out":[],"st":6,"f":"7-SWP0409-BE-Butter-Cream-1.webp"},
+    {"id":"bebe4","v":"Bebe","d":"women","t":"Tailored Fitted Blazer","ty":"Blazers","p":80,"c":80,"s":["2","4","6","8"],"out":[],"st":4,"f":"7-SWJ0253-BE-Butter-Cream-1.webp"},
+    {"id":"bebe5","v":"Bebe","d":"women","t":"Scarf-detailed Wide Leg Jumpsuit","ty":"Jumpsuits","p":72,"c":72,"s":["2","4","6","8"],"out":["8"],"st":5,"f":"7-SWG0200-BE-Prt-Butter-Cream-1.webp"},
+    {"id":"bebe6","v":"Bebe","d":"women","t":"Draped Sweetheart Romper","ty":"Rompers","p":52,"c":52,"s":["2","4","6","8"],"out":[],"st":8,"f":"7-SKR0087-BE-Amethyst-1.webp"},
+
+    {"id":"lvr1","v":"La vie en rose","d":"lingerie","t":"Peachy Dream Peach Chemise","ty":"Pajama top","p":12.5,"c":12.5,"s":["S","M","L","XL","XXL"],"out":[],"st":31,"f":"40500493-P10609-1.jpg"},
+    {"id":"lvr2","v":"La vie en rose","d":"lingerie","t":"Mesh Chemise","ty":"Nightgown","p":15.75,"c":15.75,"s":["XS","S","M","L","XL","XXL"],"out":["XS"],"st":22,"f":"60500243-P10602-1.jpg"},
+    {"id":"lvr3","v":"La vie en rose","d":"lingerie","t":"Mesh Lace Babydoll","ty":"Babydoll","p":16.75,"c":16.75,"s":["XS","S","M","L","XL","XXL"],"out":[],"st":18,"f":"60500240-00001-1.jpg"},
+    {"id":"lvr4","v":"La vie en rose","d":"lingerie","t":"Mesh 2pcs Set Crop Short","ty":"Lingerie Set","p":16.75,"c":16.75,"s":["XS","S","M","L","XL","XXL"],"out":[],"st":27,"f":"60400074-00001-1.jpg"},
+
+    {"id":"usp1","v":"U.S. Polo Assn.","d":"kids","t":"Navy Blue Chinos","ty":"Chino Trousers","p":27.9,"c":27.9,"s":["3-4Y","4-5Y","5-6Y","6-7Y","7-8Y","8-9Y"],"out":[],"st":16,"f":"G083SZ0780-PU-10344_VR033_01.webp"},
+    {"id":"usp2","v":"U.S. Polo Assn.","d":"kids","t":"White Shirt Long Sleeve","ty":"Shirts","p":10.75,"c":17.9,"s":["3-4Y","4-5Y","5-6Y","6-7Y","7-8Y","8-9Y"],"out":["3-4Y"],"st":24,"f":"G083SZ0040-PU-8792_VR013_01.webp"},
+    {"id":"usp3","v":"U.S. Polo Assn.","d":"kids","t":"Light Blue Shirt Long Sleeve","ty":"Shirts","p":10.75,"c":17.9,"s":["3-4Y","4-5Y","5-6Y","6-7Y","8-9Y","9-10Y"],"out":[],"st":19,"f":"G083SZ0040-2084425_VR093_01.webp"},
+    {"id":"usp4","v":"U.S. Polo Assn.","d":"men","t":"Stone Knitting Trouser","ty":"Sweatpants","p":12,"c":23.9,"s":["XS","S","M","L","XL","2XL"],"out":["XS"],"st":11,"f":"G081SZ0OP0-PU-8760_VR049_01.webp"},
+
+    {"id":"eden1","v":"Eden Park","d":"men","t":"Light Grey Chemise","ty":"Shirts","p":25.5,"c":42,"s":["XS","S","M","L","XL","2XL"],"out":[],"st":13,"f":"PPSHICHE0003_GRM_01.jpg"},
+    {"id":"eden2","v":"Eden Park","d":"men","t":"Dark Grey Short-Sleeved T-Shirt","ty":"T-Shirts","p":13.5,"c":22,"s":["XS","S","M","L","XL","2XL"],"out":[],"st":28,"f":"PPKNITCE0003_GRF_01_9d32afa4-bb6e-4cb8-b560-c5693dad4190.jpg"},
+    {"id":"eden3","v":"Eden Park","d":"men","t":"Light Blue Short-Sleeved Polo Shirt","ty":"Polo Shirts","p":17,"c":34,"s":["XS","S","M","L","XL","2XL"],"out":["XS"],"st":7,"f":"PPKNIPOE0004_BLM3_01_5363e59a-3dc0-4e63-85b8-0d922b3b3672.jpg"},
+    {"id":"eden4","v":"Eden Park","d":"men","t":"White Short-Sleeved Polo Shirt","ty":"Polo Shirts","p":17,"c":34,"s":["XS","S","XL","2XL","3XL","4XL"],"out":[],"st":21,"f":"PPKNIPOE0004_BC_01_76dc8ae4-85b0-4aeb-b97e-36e1aa08d359.jpg"},
+
+    {"id":"vera1","v":"Vera Mont","d":"women","t":"Open Blouse Jacket","ty":"Jackets","p":36,"c":36,"s":["S","M","L","XL"],"out":[],"st":6,"f":"0385-4825_5609_00.webp"},
+    {"id":"vera2","v":"Vera Mont","d":"women","t":"Cape in a Glitter Look","ty":"Capes","p":28,"c":28,"s":["One size"],"out":[],"st":9,"f":"0376-4208_9894_01.jpg"},
+
+    {"id":"mm1","v":"More & More","d":"women","t":"Wide-Legged Suit Trousers","ty":"Dress Trousers","p":26,"c":52,"s":["36","38","40","42","44","46"],"out":["36"],"st":12,"f":"61244058_0041_01.webp"},
+    {"id":"mm2","v":"More & More","d":"women","t":"Printed Scarf","ty":"Scarves","p":13,"c":16,"s":["One size"],"out":[],"st":34,"f":"61069012_2790_01.webp"},
+
+    {"id":"seven1","v":"7 For All Mankind","d":"men","t":"Pleated Trouser in Luxe Performance Knit","ty":"Trousers","p":43,"c":86,"s":["29","30","31","32","33","34"],"out":[],"st":8,"f":"7TY50E23_BKN_03.webp"},
+    {"id":"seven2","v":"7 For All Mankind","d":"men","t":"Hybrid Pant in Luxe Performance Knit","ty":"Chino Trousers","p":43,"c":86,"s":["30","31","32","33","34","36"],"out":["36"],"st":5,"f":"7TH40E23_1LT_02.webp"},
+    {"id":"seven3","v":"7 For All Mankind","d":"men","t":"The Straight in Denim Linen","ty":"Jeans","p":43,"c":86,"s":["29","30","31","32","33","34"],"out":[],"st":10,"f":"7TE70G06_3BL_03.webp"},
+
+    {"id":"hunk1","v":"Hunkemoller","d":"lingerie","t":"Relaxed Fit Satin Long Sleeve Pajama Set","ty":"Pajama set","p":15,"c":30,"s":["S","M","L","XL"],"out":[],"st":26,"f":"304613-1.jpg"},
+    {"id":"hunk2","v":"Hunkemoller","d":"lingerie","t":"Relaxed Fit Satin Elastic Waist Sleep Shorts","ty":"Pajama Bottom","p":6.5,"c":13.25,"s":["S","M","L","XL"],"out":[],"st":41,"f":"304609-1.jpg"},
+    {"id":"hunk3","v":"Hunkemoller","d":"lingerie","t":"Relaxed Fit Satin Short Sleeve Pajama Shirt","ty":"Pajama set","p":8,"c":16.25,"s":["S","M","L","XL"],"out":["S"],"st":17,"f":"304608-1.jpg"},
+
+    {"id":"ben1","v":"Benetton","d":"kids","t":"T-shirt with Disney Lilo & Stitch Print","ty":"T-Shirts","p":7,"c":9.9,"s":["12-18M","18-24M","2-3Y","3-4Y","5-6Y","XS"],"out":["12-18M"],"st":33,"f":"m0fllPlyRpWH5ZT5chaV4g.webp"},
+    {"id":"ben2","v":"Benetton","d":"kids","t":"Girls T-Shirt, Pink","ty":"T-Shirts","p":7,"c":9.9,"s":["12-18M","18-24M","2-3Y","3-4Y","5-6Y","XS"],"out":[],"st":29,"f":"3I1XG10MO_25F_03.jpg"},
+    {"id":"ben3","v":"Benetton","d":"kids","t":"Girls T-Shirt, Creamy White","ty":"T-Shirts","p":7,"c":9.9,"s":["12-18M","18-24M","2-3Y","3-4Y","5-6Y","XS"],"out":[],"st":25,"f":"3I1XG10MO_074_01.jpg"},
+
+    {"id":"tom1","v":"Tomtailor","d":"women","t":"Wide Leg Trousers, 2-in-1 Look","ty":"Trousers","p":13.25,"c":26.5,"s":["S","M","L","XL","XXL"],"out":[],"st":15,"f":"Denim-Tom-Ta_202601_10668_1048881_5.jpg"},
+    {"id":"tom2","v":"Tomtailor","d":"women","t":"Viscose Blouse, Taupe","ty":"Blouses","p":10.5,"c":21,"s":["38","40"],"out":[],"st":4,"f":"Tom-Tailor_202602_39729_1049794_5-scaled.jpg"},
+    {"id":"tom3","v":"Tomtailor","d":"women","t":"Viscose Blouse, Light Yellow","ty":"Blouses","p":10.5,"c":21,"s":["38","40"],"out":["38"],"st":3,"f":"Tom-Tailor_202602_38887_1049794_5-scaled.jpg"},
+
+    {"id":"cel1","v":"Celio","d":"men","t":"Vest, Khaki Green","ty":"Outerwear","p":9,"c":18,"s":["S","M","L"],"out":["M","L"],"st":2,"f":"161974-526-FETHREE_KHAKIGREEN-2.jpg"},
+    {"id":"cel2","v":"Celio","d":"men","t":"Socks, Bottle Green","ty":"Socks","p":0.75,"c":2.5,"s":["One Size"],"out":[],"st":58,"f":"119340-2006-MINFUNKY_BOTTLEGREEN01-1.jpg"},
+    {"id":"cel3","v":"Celio","d":"men","t":"Socks, Black","ty":"Socks","p":2.5,"c":2.5,"s":["One Size"],"out":[],"st":44,"f":"119340-956-MINFUNKY_BLACK-1.jpg"},
+
+    {"id":"betty1","v":"Betty Barclay","d":"women","t":"Patterned Satin Skirt","ty":"Midi Skirts","p":21,"c":48,"s":["36","38","40","42","44","46"],"out":["36","38","40","42","44","46"],"st":0,"f":"9455-1741_9812_00.webp"},
+    {"id":"betty2","v":"Betty Barclay","d":"women","t":"Slip-On Skirt with Side Pockets","ty":"Midi Skirts","p":22,"c":54,"s":["36","38","40","42","44","46"],"out":["36","38","40","42","44","46"],"st":0,"f":"9488-1875_1881_01.webp"}
+  ],
+  "editorial": [
+    {"id":"heroA","f":"7-SWG0200-BE-Prt-Butter-Cream-2.webp"},
+    {"id":"heroB","f":"7-SWJ0253-BE-Butter-Cream-2.webp"},
+    {"id":"heroC","f":"7-SKR0087-BE-Amethyst-2.webp"},
+    {"id":"edA","f":"7-SWT0469-BE-White-Alyssum-2.webp"},
+    {"id":"edB","f":"7-SKG0199-BE-Chocolate-Martini-2.webp"},
+    {"id":"edC","f":"7-SKK0192-BE-Wild-Garden-Prt-2.webp"},
+    {"id":"edD","f":"7-SWD0210-BE-Light-Blue-Wash-2.webp"},
+    {"id":"edE","f":"7-SKP0412-BE-Black-2.webp"},
+    {"id":"edF","f":"0385-4825_5609_00.webp"}
+  ]
+}
